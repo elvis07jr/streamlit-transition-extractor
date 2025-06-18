@@ -78,7 +78,9 @@ French-Transitions-Extractor/
     * In "4. Generate and Save Outputs," select the desired output file formats (e.g., `fewshot_examples.json`, `transitions_only.txt`).
     * Click "Generate and Save Selected Outputs" to download the files to your local machine.
 ---
-Compiled by: [Elvis Tile]https://github.com/elvis07jr
+Compiled by: https://github.com/elvis07jr
+Email: tile.pc@hotmail.com
+---
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file (if you create one) for details.
