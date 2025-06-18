@@ -78,58 +78,7 @@ French-Transitions-Extractor/
     * In "4. Generate and Save Outputs," select the desired output file formats (e.g., `fewshot_examples.json`, `transitions_only.txt`).
     * Click "Generate and Save Selected Outputs" to download the files to your local machine.
 ---
-## Contributing
-
-Contributions are welcome! If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
-
-### Methodical Git Workflow
-
-When contributing changes to this repository, please follow these steps to ensure a clean and organized commit history:
-
-1.  **Fetch the latest changes:**
-    Always start by ensuring your local branch is up-to-date with the remote repository.
-    ```bash
-    git pull origin main
-    # Or 'git pull origin master' if your primary branch is named 'master'
-    ```
-
-2.  **Make your changes:**
-    Work on your feature or bug fix in your local files.
-
-3.  **Review your changes:**
-    Before staging, check what modifications you've made.
-    ```bash
-    git status
-    ```
-    This command shows which files have been modified, added, or deleted.
-
-4.  **Stage your changes:**
-    Add the modified files to the staging area.
-    ```bash
-    git add .
-    # Or, to stage specific files:
-    # git add data_processing.py app.py
-    ```
-
-5.  **Commit your changes with a descriptive message:**
-    Write a concise and meaningful commit message that explains *what* you changed and *why*.
-    ```bash
-    git commit -m "feat: Add support for new DOCX header format"
-    # Or for a bug fix:
-    # git commit -m "fix: Resolve SyntaxError in app.py output generation"
-    # Use conventional commits (e.g., feat, fix, docs, refactor) where appropriate.
-    ```
-
-6.  **Push your changes to the remote repository:**
-    After committing, push your local commits to the remote branch.
-    ```bash
-    git push origin main
-    # Or 'git push origin master'
-    ```
-
-7.  **Create a Pull Request (if contributing to a shared repo):**
-    If you're working on a feature branch or contributing to a project you've forked, open a Pull Request (PR) on GitHub (or your chosen Git platform) to merge your changes into the `main` (or `master`) branch.
-
+Compiled by: [Elvis Tile]https://github.com/elvis07jr
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file (if you create one) for details.
