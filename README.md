@@ -45,12 +45,7 @@ Before you begin, ensure you have the following installed:
     ```
 
 3.  **Install dependencies:**
-    Create a `requirements.txt` file in your project's root directory (`French-Transitions-Extractor/`) with the following content:
-    ```
-    streamlit
-    python-docx
-    ```
-    Then, install them:
+
     ```bash
     pip install -r requirements.txt
     ```
